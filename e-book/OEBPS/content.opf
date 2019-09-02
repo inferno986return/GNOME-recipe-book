@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:title>A Yorkshire Cookery Book</dc:title>
+		<dc:creator>Mary Milnes Gaskell, Hal Motley</dc:creator>
+		<dc:subject>Culinary, Historical</dc:subject>
+		<dc:publisher>Motley Micropublishing</dc:publisher>
+		<dc:identifier id="bookid">-</dc:identifier>
+		<dc:date>2019-09-01T11:17:15</dc:date>
+		<dc:language>en</dc:language>
+		<dc:rights>worldwide</dc:rights>
+		<meta content="cover" name="cover"/>
+	</metadata>
+	<manifest>
+		<item href="styles/zstylesheet.css" id="css0" media-type="text/css"/>
+		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+		<item href="images/yorkshirerose_title.png" id="image0" media-type="image/png"/>
+		<item href="images/cover.png" id="image1" media-type="image/png"/>
+		<item href="images/fleuron_title.png" id="image2" media-type="image/png"/>
+		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
+		<item href="title.xhtml" id="title" media-type="application/xhtml+xml"/>
+		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
+		<item href="dedication.xhtml" id="dedication" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc" media-type="application/xhtml+xml"/>
+		<item href="foreword.xhtml" id="foreword" media-type="application/xhtml+xml"/>
+		<item href="introduction.xhtml" id="introduction" media-type="application/xhtml+xml"/>
+		<item href="soups.xhtml" id="soups" media-type="application/xhtml+xml"/>
+		<item href="fish.xhtml" id="fish" media-type="application/xhtml+xml"/>
+		<item href="meat.xhtml" id="meat" media-type="application/xhtml+xml"/>
+		<item href="lunchsupperhightea.xhtml" id="lunchsupperhightea" media-type="application/xhtml+xml"/>
+		<item href="invalidcookery.xhtml" id="invalidcookery" media-type="application/xhtml+xml"/>
+		<item href="savouriesandbreakfast.xhtml" id="savouriesandbreakfast" media-type="application/xhtml+xml"/>
+		<item href="puddingsandsweets.xhtml" id="puddingsandsweets" media-type="application/xhtml+xml"/>
+		<item href="cakesandpastry.xhtml" id="cakesandpastry" media-type="application/xhtml+xml"/>
+		<item href="picklesandpreserves.xhtml" id="picklesandpreserves" media-type="application/xhtml+xml"/>
+		<item href="winesetc.xhtml" id="winesetc" media-type="application/xhtml+xml"/>
+		<item href="toffeesetc.xhtml" id="toffeesetc" media-type="application/xhtml+xml"/>
+		<item href="householdhints.xhtml" id="householdhints" media-type="application/xhtml+xml"/>
+		<item href="bookindex.xhtml" id="bookindex" media-type="application/xhtml+xml"/>
+		<item href="appendixa.xhtml" id="appendixa" media-type="application/xhtml+xml"/>
+		<item href="appendixb.xhtml" id="appendixb" media-type="application/xhtml+xml"/>
+		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
+		<item href="fonts/texgyreschola-italic.otf" id="font0" media-type="font/opentype"/>
+		<item href="fonts/texgyreschola-bold.otf" id="font1" media-type="font/opentype"/>
+		<item href="fonts/texgyreschola-bolditalic.otf" id="font2" media-type="font/opentype"/>
+		<item href="fonts/texgyreschola-regular.otf" id="font3" media-type="font/opentype"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="bookcover"/>
+		<itemref idref="title"/>
+		<itemref idref="indicia"/>
+		<itemref idref="dedication"/>
+		<itemref idref="toc"/>
+		<itemref idref="foreword"/>
+		<itemref idref="introduction"/>
+		<itemref idref="soups"/>
+		<itemref idref="fish"/>
+		<itemref idref="meat"/>
+		<itemref idref="lunchsupperhightea"/>
+		<itemref idref="invalidcookery"/>
+		<itemref idref="savouriesandbreakfast"/>
+		<itemref idref="puddingsandsweets"/>
+		<itemref idref="cakesandpastry"/>
+		<itemref idref="picklesandpreserves"/>
+		<itemref idref="winesetc"/>
+		<itemref idref="toffeesetc"/>
+		<itemref idref="householdhints"/>
+		<itemref idref="bookindex"/>
+		<itemref idref="appendixa"/>
+		<itemref idref="appendixb"/>
+		<itemref idref="backcover"/>
+	</spine>
+</package>

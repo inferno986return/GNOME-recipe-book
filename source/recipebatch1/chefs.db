@@ -1,0 +1,35 @@
+[aday]
+Image=images/allan_day.jpg
+Name=Allan
+Fullname=Allan Day
+Description=I cook a lot, particularly Italian and Indian.
+
+[bastian]
+Image=images/Bastian.jpg
+Name=Bastian
+Fullname=Bastian Ilsø
+Description=The nordic cuisine maestro.
+
+[erusan]
+Image=images/erusan.gif
+Name=Erusan
+Fullname=Erusan
+Description=Erusan is an American who has lived all over the country, loves GNOME, and enjoys cooking — primarily American, Asian, and Indian cuisine.
+
+[sylvia]
+Image=images/geisha.jpg
+Name=Sylvia
+Fullname=Sylvia Sanchez
+Description=Artist, Computer Scientist, Traveller.\nI love cooking. :)
+
+[link]
+Image=images/Sonic.jpg
+Name=Link
+Fullname=Link Dupont
+Description=Just Link.
+
+[mwleeds]
+Image=images/mwleeds.jpg
+Name=Matthew
+Fullname=Matthew Leeds
+Description=Matthew is a vegan and a Computer Science student who loves FOSS.

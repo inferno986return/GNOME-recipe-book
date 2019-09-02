@@ -1,0 +1,6 @@
+Checksum values for AYorkshireCookeryBook.epub on 2019-09-01 11:17:15UTC
+=================================================================================
+
+MD5: 5d1414d6757f2f6cc79778a390074cd3
+SHA-256: e883d0a1ac60799796ea360ad95a4279a8b24e46ce83e42ce68a9437e8f69ee8
+SHA-512: 2788b405de264b8c685931ce7560ed1565baff7ef73a05514e8bd16e6f82110fd6002fd63e0ce62d10220b717ca47fb9f3301049b1a0c4ae726c4883bbf71933
