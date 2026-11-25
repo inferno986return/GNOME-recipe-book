@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" id="add-recipe-images" style="task" xml:lang="cs">
+  
+  <info>
+    <link type="guide" xref="add-recipe" group="fourth"/>
+    <link type="seealso" xref="add-recipe-details"/>
+    <link type="seealso" xref="add-recipe-ingredients"/>
+    <link type="seealso" xref="add-recipe-directions"/>
+    <link type="seealso" xref="add-recipe-description"/>
+    <desc>Jak přidat fotografie do receptu jako celku i k jednotlivým krokům postupu.</desc>
+    <revision pkgversion="3.24" version="0.1" date="2017-03-21" status="draft"/>
+    <credit type="author">
+      <name>Paul Cutler</name>
+      <email its:translate="no">pcutler@gnome.org</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 4.0</p>
+    </license>
+  </info>
+  
+  <title>Přidání obrázků a fotek</title>
+    <p>Zmáčkněte tlačítko <gui>Nový recept</gui> v levém horním rohu okna <app>Recepty</app>. Když chcete do receptu přidat obrázek:</p>
+    <steps>
+      <item>
+        <p>Zmáčkněte tlačítko <gui style="button">+</gui> pod ikonou fotoaparátu nebo zmáčkněte <guiseq><gui>Přidat obrázek</gui> <gui style="button">+</gui></guiseq> v dolní části okna.</p>
+      </item>
+      <item>
+        <p>Vyberte obrázek, který chcete přidat.</p>
+      </item>
+      <item>
+        <p>Zmáčkněte <gui>Otevřít</gui>.</p>
+      </item>
+    </steps>
+    
+    <p>Můžete chtít v receptu i více obrázků. Například protože v režimu volných rukou umí <app>Recepty</app> u každého kroku zobrazit obrázek pro upřesnění instrukce. Když chcete přidat více obrázků:</p>
+    <steps>
+      <item>
+        <p>Zmáčkněte tlačítko <gui style="button">+</gui> pod ikonou fotoaparátu nebo zmáčkněte <guiseq><gui>Přidat obrázek</gui> <gui style="button">+</gui></guiseq> v dolní části okna.</p>
+      </item>
+      <item>
+        <p>Vyberte více obrázků podržením klávey <key>Ctrl</key> a klikáním na obrázky, které chcete přidat.</p>
+      </item>
+      <item>
+        <p>Zmáčkněte <gui>Otevřít</gui>.</p>
+      </item>
+    </steps>
+    <p>Po přidání můžete obrázek otočit, nastavit jej jako hlavní pro daný recept, nebo jej z receptu zase odstranit.</p>
+      <steps>
+        <item>
+        <p>Pro otočení obrázku doleva zmáčkněte tlačítko <gui>Otočit obrázek</gui>: <media type="image" mime="image/png" src="images/rotate-left.png" its:translate="yes"><span its:translate="yes">Otočit obrázek</span></media></p>
+        </item>
+        <item>
+        <p>Pro otočení obrázku doprava zmáčkněte tlačítko <gui>Otočit obrázek</gui>: <media type="image" mime="image/png" src="images/rotate-right.png" its:translate="yes"><span its:translate="yes">Otočit obrázek</span></media></p>
+        </item>
+        <item>
+        <p>Abyste některý obrázek určili pro recept jako hlavní, zmáčkněte tlačítko <gui>Hlavní obrázek</gui>: <media type="image" mime="image/png" src="images/star.png" its:translate="yes"><span its:translate="yes">Hlavní obrázek</span></media>	</p>
+        </item>
+        <item>
+        <p>Když chcete obrázek z receptů odstranit, zmáčkněte tlačítko <gui>Odebrat obrázek</gui>: <media type="image" mime="image/png" src="images/trash.png" its:translate="yes"><span its:translate="yes">Odebrat obrázek</span></media></p>
+        </item>
+      </steps>
+  
+</page>
