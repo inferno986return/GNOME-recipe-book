@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page xmlns="http://projectmallard.org/1.0/" xmlns:its="http://www.w3.org/2005/11/its" type="topic" id="add-recipe-description" style="task" xml:lang="cs">
+  
+  <info>
+    <link type="guide" xref="add-recipe" group="second"/>
+    <link type="seealso" xref="add-recipe-details"/>
+    <link type="seealso" xref="add-recipe-ingredients"/>
+    <link type="seealso" xref="add-recipe-directions"/>
+    <link type="seealso" xref="add-recipe-images"/>
+    <desc>Jak přidat popis receptu a dietní omezení.</desc>
+    <revision pkgversion="3.24" version="0.1" date="2017-03-21" status="draft"/>
+    <credit type="author">
+      <name>Paul Cutler</name>
+      <email its:translate="no">pcutler@gnome.org</email>
+    </credit>
+    <license>
+      <p>Creative Commons Share Alike 4.0</p>
+    </license>
+  </info>
+  
+  <title>Přidání popisu</title>
+  
+  <p>Zmáčkněte <gui>Nový recept</gui> levém horním rohu okna <app>Recepty</app>. V části <gui>Popis</gui> použijte textové pole k zadání podrobného popisu receptu.</p>
+    <p>Pod polem <gui>Popis</gui> můžete zaškrtnou políčko, když recept splňuje nějaká dietní omezení. Tyto údaje pomohou později při vyhledávání receptu.</p>
+      <list>
+        <item><p><gui>Bez lepku</gui>: Zaškrtněte u receptů, které neobsahují pšenici nebo podobné obilniny.</p></item>
+        <item><p><gui>Vegetariánské</gui>: Zaškrtněte recepty, které obsahují zeleninu a neobsahují maso, včetně drůbežího a mořských plodů. Vegetariánské recepty mohou obsahovat mléčné produkty a vejce.</p></item>
+        <item><p><gui>Bez ořechů</gui>: Zaškrtněte u receptů, které neobsahují žádné ořechy.</p></item>
+        <item><p><gui>Bez mléka</gui>: Zaškrtněte u receptů, které neobsahují žádné mléčné výrobky, jako je mléko nebo sýr.</p></item>
+        <item><p><gui>Veganské</gui>: Zaškrtněte u receptů, které neobsahují žádný produkt z zvířat. Včetně masa, mléčných výrobků, vajec a pod.</p></item>
+      </list>
+  
+</page>
